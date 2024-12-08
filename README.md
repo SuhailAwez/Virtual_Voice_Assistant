@@ -1,7 +1,4 @@
 # Virtual_Voice_Assistant
-
-# Python Virtual Assistant
-
 This Python-based Virtual Assistant, named **Jarvis 1.0**, is a voice-activated assistant capable of performing various tasks such as searching Wikipedia, opening websites, playing music, telling jokes, sending emails, and more. It uses libraries like `speech_recognition`, `pyttsx3`, and `wikipedia` to process voice commands and respond to user queries.
 
 ## Features
